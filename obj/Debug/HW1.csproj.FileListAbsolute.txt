@@ -1,0 +1,8 @@
+C:\Users\HUAWEI\source\repos\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\HUAWEI\source\repos\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\HUAWEI\source\repos\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\HUAWEI\source\repos\HW1\HW1\obj\Debug\HW1.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\HUAWEI\source\repos\HW1\HW1\obj\Debug\HW1.pdb
+C:\Users\HUAWEI\source\repos\HW1\HW1\obj\Debug\HW1.exe.config
